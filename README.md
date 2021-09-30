@@ -24,16 +24,7 @@
 
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Things I've been upto.***
 
-✔ To be updated<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ To be updated<br>
-✔ To be updated<br>
-✔ To be updated <br>
-✔ To be updated<br>
-✔ To be updated<br>
-✔ To be updated<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
